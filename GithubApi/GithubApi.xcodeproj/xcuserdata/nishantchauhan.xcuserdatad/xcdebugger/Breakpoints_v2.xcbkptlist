@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8A8B548E-A5F1-4371-8125-88B32E3E8BAE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB3F52F8-B456-4B77-B99C-82930E114D92"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GithubApi/InterfaceViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "getUsers()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EB3F52F8-B456-4B77-B99C-82930E114D92 - daaf0026a63fdba0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for GithubApi.InterfaceViewController.getUsers() async throws -&gt; GithubApi.GithubUser"
+                  moduleName = "GithubApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nishantchauhan/Documents/UI-KITworkspace/GithubApi/GithubApi/InterfaceViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "EB3F52F8-B456-4B77-B99C-82930E114D92 - daaf0026a63fdba0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for GithubApi.InterfaceViewController.getUsers() async throws -&gt; GithubApi.GithubUser"
+                  moduleName = "GithubApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nishantchauhan/Documents/UI-KITworkspace/GithubApi/GithubApi/InterfaceViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "259">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B0314E52-4935-4C5F-9999-D00CC52E8CF3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GithubApi/InterfaceViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "getUsers()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B0314E52-4935-4C5F-9999-D00CC52E8CF3 - daaf0026a63fdb45"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for GithubApi.InterfaceViewController.getUsers() async throws -&gt; GithubApi.GithubUser"
+                  moduleName = "GithubApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nishantchauhan/Documents/UI-KITworkspace/GithubApi/GithubApi/InterfaceViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "265">
+               </Location>
+               <Location
+                  uuid = "B0314E52-4935-4C5F-9999-D00CC52E8CF3 - 5283afe06bf71bb3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for GithubApi.InterfaceViewController.getUsers() async throws -&gt; GithubApi.GithubUser"
+                  moduleName = "GithubApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nishantchauhan/Documents/UI-KITworkspace/GithubApi/GithubApi/InterfaceViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  uuid = "B0314E52-4935-4C5F-9999-D00CC52E8CF3 - 4990ca4144d6a74b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for GithubApi.InterfaceViewController.getUsers() async throws -&gt; GithubApi.GithubUser"
+                  moduleName = "GithubApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nishantchauhan/Documents/UI-KITworkspace/GithubApi/GithubApi/InterfaceViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "142">
+               </Location>
+               <Location
+                  uuid = "B0314E52-4935-4C5F-9999-D00CC52E8CF3 - 81132e8f93e1c14a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for GithubApi.InterfaceViewController.getUsers() async throws -&gt; GithubApi.GithubUser"
+                  moduleName = "GithubApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nishantchauhan/Documents/UI-KITworkspace/GithubApi/GithubApi/InterfaceViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "42">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AC0CA5AD-690E-40D0-840C-E67A91DA8A44"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GithubApi/InterfaceViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "getUsers()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "40299463-5599-47EA-8313-338EA84B264E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GithubApi/InterfaceViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "40299463-5599-47EA-8313-338EA84B264E - 7c9b1fc5a0a998cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () async -&gt; () in GithubApi.InterfaceViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "GithubApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nishantchauhan/Documents/UI-KITworkspace/GithubApi/GithubApi/InterfaceViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "121">
+               </Location>
+               <Location
+                  uuid = "40299463-5599-47EA-8313-338EA84B264E - 906370f993410b8d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for closure #1 @Sendable () async -&gt; () in GithubApi.InterfaceViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "GithubApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nishantchauhan/Documents/UI-KITworkspace/GithubApi/GithubApi/InterfaceViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "49">
+               </Location>
+               <Location
+                  uuid = "40299463-5599-47EA-8313-338EA84B264E - 73ce3ae48fd50481"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in GithubApi.InterfaceViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "GithubApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nishantchauhan/Documents/UI-KITworkspace/GithubApi/GithubApi/InterfaceViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "83">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

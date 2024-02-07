@@ -1,0 +1,6 @@
+framework module Pods_MovieTrending_MovieTrendingUITests {
+  umbrella header "Pods-MovieTrending-MovieTrendingUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
